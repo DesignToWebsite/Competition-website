@@ -79,21 +79,89 @@ The Competition Details Dashboard provides users with comprehensive information 
 ![Participant](https://github.com/DesignToWebsite/Competition-website/assets/74991230/6ced6de6-92ed-4952-a653-69adbf561311)
 
 
-7. **My projects** (Accessible to Participants Only): 
-   - Participants are provided with the functionality to create and submit their projects directly from the dashboard. They can input project details, upload files, and submit their entries seamlessly.
-     
-  *Not a participant*
-  
-![competition review project](https://github.com/DesignToWebsite/Competition-website/assets/74991230/080db522-94cf-446e-a52b-1c371d7f428d)
 
-*A participant*
-
-![no project exist in hakathon](https://github.com/DesignToWebsite/Competition-website/assets/74991230/e8f414fe-3148-42f5-983e-79d86ff8ecd0)
-
-8. **Discussion Section**:
+7. **Discussion Section**:
    - A discussion section is available where participants can ask questions related to the competition. Participants can post their queries, and organizers can provide answers, facilitating communication and clarifications.
 
 ![Disscussion](https://github.com/DesignToWebsite/Competition-website/assets/74991230/008f62c1-97b6-4d4c-9b89-ce4898d3d686)
+
+8. **My projects** (Accessible to Participants Only): 
+   - Participants are provided with the functionality to create and submit their projects directly from the dashboard. They can input project details, upload files, and submit their entries seamlessly.
+     
+### Project Creation and Submission Process
+
+1. **Join the Hackathon**: 
+   - As a participant, the first step is to join the hackathon by registering for it through the platform.
+  
+![competition review project](https://github.com/DesignToWebsite/Competition-website/assets/74991230/080db522-94cf-446e-a52b-1c371d7f428d)
+
+2. **Create a Project**: 
+   - Once registered, participants can create a project for the hackathon. This involves providing general information about the project, such as the project name, category, and team members (if applicable).
+
+![no project exist in hakathon](https://github.com/DesignToWebsite/Competition-website/assets/74991230/e8f414fe-3148-42f5-983e-79d86ff8ecd0)
+
+3. **Project Overview**: 
+   - After creating the project, participants will provide an overview of their project. This includes a brief description of the project, its objectives, and any other general information.
+     ![Project etape 1](https://github.com/DesignToWebsite/Competition-website/assets/74991230/1dda62a9-bb91-40ef-918e-c9e969c7631b)
+
+
+4. **Project Details**: 
+   - Participants can then delve deeper into the project by adding project details. This may include the project story, explaining the inspiration behind the project, the technologies used, and any challenges faced during development.
+     
+![Project etape 2](https://github.com/DesignToWebsite/Competition-website/assets/74991230/ed47b996-03b9-43fb-91c4-134f8bcae94c)
+
+5. **Additional Info**: 
+   - Participants have the option to provide additional information about their project, such as project documentation, demo videos, or external links to repositories.
+     
+![Ptoject 3](https://github.com/DesignToWebsite/Competition-website/assets/74991230/7959bfca-ca53-4f64-b144-76b30cebb9fc)
+
+6. **Submit Project**: 
+   - Once all necessary information is added, participants can submit their project for review by the organizer. This action signifies the completion of the project creation process
+     
+![project 4](https://github.com/DesignToWebsite/Competition-website/assets/74991230/8ff0812f-2508-41ea-9744-c49cc81430ac)
+
+7. **Review and Approval by Organizer**: 
+   - The submitted projects are then reviewed by the organizer. The organizer may have additional steps or requirements for participants to fulfill before their projects are approved.
+
+8. **Team Member Addition**: 
+   - Participants can also add members to their project team if they wish to collaborate. This step allows for teamwork and enhances the project's scope and capabilities.
+     
+![add team](https://github.com/DesignToWebsite/Competition-website/assets/74991230/e297069f-116f-4fe6-8ad3-11fe7fd16198)
+
+
+### Projects Page
+#### Description:
+The Project Page serves as a central repository where all submitted projects for the hackathon are showcased. Participants and organizers can browse through the projects, view their details, and engage with the project creators.
+
+1. **Project Listings**: 
+   - The page displays a comprehensive list of all submitted projects. Each project entry includes details such as the project name, team members, project category, and a brief description.
+
+2. **Project Details**: 
+   - Clicking on a project entry expands it to reveal more detailed information about the project. This includes the project overview, project story, additional information, and any attached resources or links.
+
+3. **Search and Filter**: 
+   - Participants and organizers can utilize search and filter functionalities to narrow down the list of projects based on specific criteria such as project name, category, or team members.
+
+4. **Engagement Options**: 
+   - Users can interact with projects by liking, commenting, or sharing them. This fosters community engagement and encourages collaboration and feedback among participants.
+
+![Projects](https://github.com/DesignToWebsite/Competition-website/assets/74991230/102685d9-0a82-41c1-b9e9-2786866bfcfd)
+
+
+### Project Story Page
+#### Description:
+The Project Story Page is dedicated to showcasing the detailed narratives and stories behind each project submitted for the hackathon. It provides participants with a platform to share their journey, challenges, and inspirations throughout the project development process.
+
+1. **Project Story Listings**: 
+   - The page displays a curated collection of project stories submitted by participants. Each story entry includes the project name, team members, and a narrative describing the project's journey, challenges faced, and lessons learned.
+
+2. **Detailed Narratives**: 
+   - Clicking on a project story expands it to reveal the detailed narrative provided by the project creator. This may include insights into the project's conception, development milestones, technical aspects, and personal reflections.
+
+3. **Engagement Options**: 
+   - Users can engage with project stories by leaving comments, sharing their thoughts, or expressing appreciation for the project creators' efforts and storytelling.
+
+![Project](https://github.com/DesignToWebsite/Competition-website/assets/74991230/e5bef536-640f-4f2a-aa26-66094ae27427)
 
      
 ## Features (Incomplete)
